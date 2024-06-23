@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "name": "towerforest.zip",
+  "items": [
+    "TowerClimber.sh",
+    "towerforest"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "A Tower in the Forest",
+    "porter": [
+      "ogregorio"
+    ],
+    "desc": "Turn windmills to activate platforms, open doors or create shortcuts and make your way to the top in this short, atmospheric platformer about reaching your goals.",
+    "inst": "To download and prepare the 'A Tower in the Forest' game, visit https://michael-grieshofer.itch.io/a-tower-in-the-forest, download the '.pck' file, rename it to 'game.pck', move it to the 'gamedata' folder in your game directory, and launch the game.",
+    "genres": [
+      "platformer"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": "frt_3.5.2.squashfs",
+    "reqs": [],
+    "arch": []
+  }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./A Tower In The Forest.sh</path>
+    <name>A Tower in the Forest</name>
+    <desc>Turn windmills to activate platforms, open doors or create shortcuts and make your way to the top in this short, atmospheric platformer about reaching your goals.</desc>
+    <developer>Michael Grieshofer</developer>
+    <publisher>Michael Grieshofer</publisher>
+    <genre>platformer</genre>
+    <image>./atowerintheforest/screenshot.jpg</image>
+  </game>
+</gameList>
