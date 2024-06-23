@@ -1,0 +1,26 @@
+{
+    "version": 2,
+    "name": "monkeyquest.zip",
+    "items": [
+      "Monkey Quest.sh",
+      "monkeyquest"
+    ],
+    "items_opt": [],
+    "attr": {
+      "title": "Monkey Quest",
+      "porter": [
+        "ogregorio"
+      ],
+      "desc": "Bubbles' friends have been captured by sneaky Lizardmen! Delve into their caves to save them! Play as a cute monkey with a pickaxe, mine blocks to find gems and buy bananas, and free your monkey friends from reptilian servitude!",
+      "inst": "This game need some files to run.",
+      "genres": [
+        "adventure"
+      ],
+      "image": null,
+      "rtr": true,
+      "exp": false,
+      "runtime": "frt_3.5.2.squashfs",
+      "reqs": [],
+      "arch": []
+    }
+  }
