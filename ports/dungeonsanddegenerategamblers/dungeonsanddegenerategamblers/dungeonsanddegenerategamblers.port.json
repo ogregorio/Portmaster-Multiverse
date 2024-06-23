@@ -1,0 +1,27 @@
+
+{
+  "version": 2,
+  "name": "dungeonsanddegenerategamblers.zip",
+  "items": [
+    "Dungeons and Degenerate Gamblers.sh",
+    "dungeonsanddegenerategamblers"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Dungeons and Degenerate Gamblers",
+    "porter": [
+      "ogregorio"
+    ],
+    "desc": "Dungeons & Degenerate Gamblers is a roguelike deckbuilder where you play blackjack using lots of cards with unique effects that you would never expect to see in a game of blackjack.",
+    "inst": "To download and prepare the 'Dungeons and Degenerate Gamblers' game, visit https://purplemosscollectors.itch.io/dndg, download the '.pck' file, rename it to 'game.pck', move it to the 'gamedata' folder in your game directory, and launch the game.",
+    "genres": [
+      "casino/card"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": "frt_3.5.2.squashfs",
+    "reqs": [],
+    "arch": []
+  }
+}

@@ -1,0 +1,14 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./Dungeons and Degenerate Gamblers.sh</path>
+    <name>Dungeons and Degenerate Gamblers</name>
+    <desc>Dungeons and Degenerate Gamblers is a roguelike deckbuilder where you play blackjack using lots of cards with unique effects that you would never expect to see in a game of blackjack.</desc>
+    <developer>Purple Moss Collectors</developer>
+    <publisher>Purple Moss Collectors</publisher>
+    <genre>casino/card</genre>
+    <image>./dungeonsanddegenerategamblers/screenshot.jpg</image>
+  </game>
+</gameList>
+
