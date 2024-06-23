@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "name": "hitstunfly.zip",
+  "items": [
+    "HitStunFly.sh",
+    "hitstunfly"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "HitStunFly",
+    "porter": [
+      "ogregorio"
+    ],
+    "desc": "HitStunFly is a fast paced indie platform fighting game inspired by Smash and Rivals of Aether. Enjoy local multiplayer 1v1 battles with 6 unique characters, 4 stages, and dynamic gameplay mechanics including directional influence (DI) on moves and fast falling.",
+    "inst": "To download and play 'HitStunFly', visit https://fortythreesam.itch.io/hitstunfly, download the '.pck' file, rename it to 'game.pck', move it to the 'gamedata' folder in your game directory, and launch the game.",
+    "genres": [
+      "platformer",
+      "other"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": "frt_3.5.2.squashfs",
+    "reqs": [],
+    "arch": []
+  }
+}

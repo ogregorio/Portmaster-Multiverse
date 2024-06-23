@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./HitStunFly.sh</path>
+    <name>HitStunFly</name>
+    <desc>HitStunFly is a fast paced indie platform fighting game inspired by Smash and Rivals of Aether. Enjoy local multiplayer 1v1 battles with 6 unique characters, 4 stages, and dynamic gameplay mechanics including directional influence (DI) on moves and fast falling.</desc>
+    <developer>fortythreesam</developer>
+    <publisher>fortythreesam</publisher>
+    <genre>platform fighter</genre>
+    <image>./hitstunfly/screenshot.jpg</image>
+  </game>
+</gameList>

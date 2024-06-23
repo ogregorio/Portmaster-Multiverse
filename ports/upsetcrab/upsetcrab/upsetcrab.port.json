@@ -12,7 +12,7 @@
       "ogregorio"
     ],
     "desc": "Play as an upset crab with a long sword trying to take over a dungeon. Fight through 7 handcrafted levels with a final boss at the very end!",
-    "inst": "To download and prepare the 'Upset Crab' game, visit https://fortythreesam.itch.io/upset-crab, download the '.zip' file, extract it, move it to the 'gamedata' folder in your game directory, and launch the game.",
+    "inst": "To download and prepare the 'Upset Crab' game, visit https://fortythreesam.itch.io/upset-crab, download the '.pck' file, rename it to 'game.pck', move it to the 'gamedata' folder in your game directory, and launch the game.",
     "genres": [
       "platformer"
     ],
