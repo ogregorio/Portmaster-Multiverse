@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./Blastronaut.sh</path>
+    <name>Blastronaut</name>
+    <desc>Mine resources, upgrade your gear, and explore a procedurally generated world with your jetpack. Use explosive gel to extract minerals, expand your mining platform, and stay alive in this dangerous yet lucrative adventure.</desc>
+    <developer>Perfoon</developer>
+    <publisher>Perfoon</publisher>
+    <genre>platformer</genre>
+    <image>./blastronaut/screenshot.jpg</image>
+  </game>
+</gameList>

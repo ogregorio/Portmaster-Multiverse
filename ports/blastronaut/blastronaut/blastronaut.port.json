@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "name": "blastronaut.zip",
+  "items": [
+    "Blastronaut.sh",
+    "blastronaut"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Blastronaut",
+    "porter": [
+      "ogregorio"
+    ],
+    "desc": "Mine resources, upgrade your gear, and explore a procedurally generated world with your jetpack. Use explosive gel to extract minerals, expand your mining platform, and stay alive in this dangerous yet lucrative adventure.",
+    "inst": "To download and prepare the 'Blastronaut' game, visit https://perfoon.itch.io/blastronaut, download the '.pck' file, rename it to 'game.pck', move it to the 'gamedata' folder in your game directory, and launch the game.",
+    "genres": [
+      "adventure",
+      "action",
+      "platformer"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": "frt_3.5.2.squashfs",
+    "reqs": [],
+    "arch": []
+  }
+}
