@@ -1,0 +1,27 @@
+
+{
+  "version": 2,
+  "name": "platformegg.zip",
+  "items": [
+    "platformEGG.sh",
+    "platformegg"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "platformEGG",
+    "porter": [
+      "ogregorio"
+    ],
+    "desc": "This game is a small platformer where you play as a ninja frog, who needs to bring an egg to finish line. Avoiding a lot of traps without dying or breaking the egg.",
+    "inst": "To download and prepare the 'platformEGG' game, visit https://tricky-fat-cat.itch.io/platformegg, download the '.pck' file, rename it to 'game.pck', move it to the 'gamedata' folder in your game directory, and launch the game.",
+    "genres": [
+      "platformer"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": "frt_3.5.2.squashfs",
+    "reqs": [],
+    "arch": []
+  }
+}
