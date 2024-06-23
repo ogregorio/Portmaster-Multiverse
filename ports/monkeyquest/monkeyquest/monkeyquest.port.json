@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "name": "monkeyquest.zip",
+  "items": [
+    "Monkey Quest.sh",
+    "monkeyquest"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Monkey Quest",
+    "porter": [
+      "ogregorio"
+    ],
+    "desc": "Bubbles' friends have been captured by sneaky Lizardmen! Delve into their caves to save them! Play as a cute monkey with a pickaxe, mine blocks to find gems and buy bananas, and free your monkey friends from reptilian servitude!",
+    "inst": "To download and prepare the 'Monkey Quest' game, visit https://mysweetwhomp.itch.io/monkey-quest, download the '.pck' file, rename it to 'game.pck', move it to the 'gamedata' folder in your game directory, and launch the game.",
+    "genres": [
+      "adventure"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": "frt_3.5.2.squashfs",
+    "reqs": [],
+    "arch": []
+  }
+}

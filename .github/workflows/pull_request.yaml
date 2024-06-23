@@ -3,7 +3,6 @@ name: PortMaster Release
 on:
   push:
     paths-ignore:
-      # - '.github/**'
       - 'README.md'
       - '.gitignore'
       - 'markdown/**'
@@ -61,10 +60,26 @@ jobs:
           find images \( -iname '*.jpg' -o  -iname '*.png' \) -exec chmod 644 {} \;
           find images \( -iname '*.jpg' -o  -iname '*.png' \) | sort | TZ=UTC zip -qX images.zip -@
 
+      - name: Create zips for each port
+        id: ports-zip
+        run: |
+          for dir in ports/*/; do
+            dir=${dir%*/}
+            (cd "$dir" && zip -r "../../${dir##*/}.zip" . -x \*.git\* -x \*.DS_Store\*)
+          done
+
+      - name: List generated zip files
+        run: ls -lh *.zip
+
       - name: Generate Port Files.
         id: ports-info
         run: |
           python3 tools/ports_json.py "${{steps.date.outputs.date}}"
+
+      - name: Remove ports directory
+        if: always()
+        run: |
+          rm -rf ports
 
       - name: "Prepare Release"
         uses: ncipollo/release-action@v1
@@ -92,6 +107,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           repo: ${{ steps.env.outputs.RELEASE_REPO }}
           owner: ${{ steps.env.outputs.RELEASE_ORG }}
+
       - name: Release Info
         id: info
         run: |

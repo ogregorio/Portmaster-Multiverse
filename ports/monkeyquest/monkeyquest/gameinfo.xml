@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./Monkey Quest.sh</path>
+    <name>Monkey Quest</name>
+    <desc>Bubbles' friends have been captured by sneaky Lizardmen! Delve into their caves to save them! Play as a cute monkey with a pickaxe, mine blocks to find gems and buy bananas, and free your monkey friends from reptilian servitude!</desc>
+    <developer>My Sweet Whomp</developer>
+    <publisher>My Sweet Whomp</publisher>
+    <genre>adventure</genre>
+    <image>./monkeyquest/screenshot.jpg</image>
+  </game>
+</gameList>
