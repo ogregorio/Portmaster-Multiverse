@@ -1,12 +1,12 @@
 # Place Release Organisation / Username, for example: "PortsMaster"
-RELEASE_ORG="PortsMaster-MV"
+RELEASE_ORG="ogregorio"
 
 # Place Repository here, for example: "PortMaster-Source"
-RELEASE_REPO="PortMaster-Multiverse"
+RELEASE_REPO="Portmaster-Multiverse"
 
 # The name for the repo, for example: "PortMaster Example Source"
-REPO_NAME="PortMaster Multiverse repository."
+REPO_NAME="Gregorio's Portmaster Multiverse repository."
 
 # A 2-4 letter prefix for storing auxillary port files (screenshots currently)
 # For example "xmpl"
-REPO_PREFIX="pmmv"
+REPO_PREFIX="ogmv"
