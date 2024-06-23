@@ -1,0 +1,14 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./Cosmo Buddy.sh</path>
+    <name>Cosmo Buddy</name>
+    <desc>Collect as many gems as you can and get back to your rocket before the lava erupts. Intergalactic gems are highly profitable, but collecting them is very dangerous... You might need to sacrifice some of your crew members to find out which is the right way.</desc>
+    <developer>easy82</developer>
+    <publisher>easy82</publisher>
+    <genre>platformer</genre>
+    <image>./cosmobuddy/screenshot.jpg</image>
+  </game>
+</gameList>
+

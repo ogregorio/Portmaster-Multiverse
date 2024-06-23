@@ -1,0 +1,27 @@
+
+{
+  "version": 2,
+  "name": "cosmobuddy.zip",
+  "items": [
+    "Cosmo Buddy.sh",
+    "cosmobuddy"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Cosmo Buddy",
+    "porter": [
+      "ogregorio"
+    ],
+    "desc": "Collect as many gems as you can and get back to your rocket before the lava erupts. Intergalactic gems are highly profitable, but collecting them is very dangerous... You might need to sacrifice some of your crew members to find out which is the right way.",
+    "inst": "To download and prepare the 'Cosmo Buddy' game, visit https://easy82.itch.io/cosmo-buddy, download the '.pck' file, rename it to 'game.pck', move it to the 'gamedata' folder in your game directory, and launch the game.",
+    "genres": [
+      "platformer"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": "frt_3.5.2.squashfs",
+    "reqs": [],
+    "arch": []
+  }
+}
