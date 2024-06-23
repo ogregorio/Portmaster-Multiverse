@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./Upset Crab.sh</path>
+    <name>Upset Crab</name>
+    <desc>Play as an upset crab with a long sword trying to take over a dungeon. Fight through 7 handcrafted levels with a final boss at the very end!</desc>
+    <developer>fortythreesam</developer>
+    <publisher>fortythreesam</publisher>
+    <genre>platformer</genre>
+    <image>./upsetcrab/screenshot.jpg</image>
+  </game>
+</gameList>

@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "name": "upsetcrab.zip",
+  "items": [
+    "Upset Crab.sh",
+    "upsetcrab"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Upset Crab",
+    "porter": [
+      "ogregorio"
+    ],
+    "desc": "Play as an upset crab with a long sword trying to take over a dungeon. Fight through 7 handcrafted levels with a final boss at the very end!",
+    "inst": "To download and prepare the 'Upset Crab' game, visit https://fortythreesam.itch.io/upset-crab, download the '.zip' file, extract it, move it to the 'gamedata' folder in your game directory, and launch the game.",
+    "genres": [
+      "platformer"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": "frt_3.5.2.squashfs",
+    "reqs": [],
+    "arch": []
+  }
+}
