@@ -11,7 +11,7 @@ Blastronaut is an indie game available on itch.io. This tutorial will guide you 
 ## Step 2: Rename the Game File
 
 1. Once the download is complete, navigate to the folder where the file is saved.
-2. Find the downloaded `.pck` file. It might be named something like `monkey_quest_vX.XX.pck`.
+2. Find the downloaded `.pck` file. It might be named something like `blastronaut_vX.XX.pck`.
 3. Right-click on the file and select "Rename" (or simply click on the filename once to select it and then press `F2` on your keyboard).
 4. Rename the file to `game.pck`. Make sure to keep the `.pck` extension unchanged.
 
