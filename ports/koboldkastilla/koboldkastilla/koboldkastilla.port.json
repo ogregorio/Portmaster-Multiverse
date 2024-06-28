@@ -1,0 +1,27 @@
+
+{
+  "version": 2,
+  "name": "koboldkastilla.zip",
+  "items": [
+    "Kobold Kastilla.sh",
+    "koboldkastilla"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Kobold Kastilla",
+    "porter": [
+      "ogregorio"
+    ],
+    "desc": "Inspired by La-Mulana, L'Abbaye des Morts and ZX Spectrum games in general, you'll be exploring and learning the history of an abandoned observatory while collecting items to further your progress and solving some puzzles. Not nearly as cryptic as La-Mulana but keeping a notepad or screenshot tool at the ready is recommended.",
+    "inst": "To download and prepare the 'Kobold Kastilla' game, visit https://michaelwave1997.itch.io/kobold-kastilla, download the '.pck' file, rename it to 'game.pck', move it to the 'gamedata' folder in your game directory, and launch the game.",
+    "genres": [
+      "platformer"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": "frt_3.5.2.squashfs",
+    "reqs": [],
+    "arch": []
+  }
+}
